@@ -14,7 +14,7 @@ I know:
 :white_check_mark: SASS
 :white_check_mark: JavaScript
 :white_check_mark: React
-:white_check_mark: Reduce
+:white_check_mark: Redux
 :white_check_mark: Node
 :white_check_mark: Git
 
